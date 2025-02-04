@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Declaración de Amor - Proyecto del 14 de Febrero 💘
 
 ¡Bienvenido/a a mi proyecto de declaración de amor para el 14 de Febrero! En este proyecto, estoy creando una declaración de amor especial para esa persona especial. Este README te dará una visión general del proyecto y cómo puedes contribuir o usarlo.
@@ -48,3 +49,6 @@ pnpm run dev
 
 ¡Gracias por visitar mi proyecto y espero que te inspire a expresar tu amor de una manera especial este 14 de Febrero! 💖
 
+=======
+# MiManguito
+>>>>>>> b7ffd01c233556146ec807b9b249cd2437c8414d
